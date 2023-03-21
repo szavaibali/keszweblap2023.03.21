@@ -1,4 +1,12 @@
-
+/*
+* File: app.js
+* Author: Szávai Balázs
+* Copyright: 2021, Szávai Balázs
+* Group: Szoft I-1/E
+* Date: 2023-03-21
+* Github: https://github.com/szavaibali/
+* Licenc: GNU GPL
+*/
 const doc = {
     tbody: null
 };
